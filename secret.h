@@ -1,8 +1,8 @@
 #include <pgmspace.h>
 #define SECRET
 #define THINGNAME "CapacitiveSensor"
-const char WIFI_SSID[] = "jackson_villa";
-const char WIFI_PASSWORD[] = "Howzat4ya?";
+const char WIFI_SSID[] = "wificreds";
+const char WIFI_PASSWORD[] = "wificreds";
 const char AWS_IOT_ENDPOINT[] = "a2n7icz5g08zo7-ats.iot.eu-north-1.amazonaws.com";
 static const char AWS_CERT_CA[] PROGMEM = R"EOF(
 -----BEGIN CERTIFICATE-----
